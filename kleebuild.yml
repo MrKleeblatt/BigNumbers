@@ -1,0 +1,2 @@
+ccflags: -Wall -g -lm
+name: Main
